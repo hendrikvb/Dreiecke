@@ -1,0 +1,3 @@
+public enum DreieckAction {
+    ROTATE_RIGHT, ROTATE_LEFT, NARROW, WIDEN, ENLARGE, SHRINK
+}
